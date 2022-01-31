@@ -1,9 +1,10 @@
-### Hi there 👋
+
+# Hi there 👋
 I'm Daniel Raymond. I do a wide range of things, including sensor development, full-stack, and data science. Previously I've worked at SpaceX, AMD, Untether AI, and Applied Brain Research. 
 
 ### Table of Contents
 - ⚒️ [Repos Overview](#repos-overview)
-  - ⚡ [Embedded/FW](#embedded-&-firmare-projects)
+  - ⚡ [Embedded/FW](#embedded-and-firmware-projects)
   - 📊 [Data Science](#data-science-projects)
   - 🕸️ [Full-Stack](#full-stack-projects)
 - 🔭 [Current Focuses](#current-focuses)
@@ -12,8 +13,8 @@ I'm Daniel Raymond. I do a wide range of things, including sensor development, f
   - 🔗 [Personal Website](https://danielraymond.me)
   - ✉️ [Email](mailto://dan@raymond.ch)
  
-### Repos Overview
-#### Embedded & Firmare Projects
+## Repos Overview
+### Embedded and Firmware Projects
 - [Segway Simulation (Inverse Pendulum)](https://github.com/draymond63/segway)
   - Developing a simulation a segway to determine physical requirements for components
   - In the future I plan to purchase components based on the requirements and 
@@ -21,6 +22,7 @@ I'm Daniel Raymond. I do a wide range of things, including sensor development, f
 - [Custom Q Extraction](https://github.com/draymond63/resonator-Q-extraction)
   - There are many ways to extract the quality factor (Q) from a frequency sweep
   - This is me playing around with a new method (instead of fitting a Bode or Nyquist plot 👀)
+
 **Older Projects**
 - [FPGA Neural Network](https://github.com/draymond63/Andro)
 - [Automatic Plant Watering System](https://github.com/draymond63/smartPot)
@@ -29,7 +31,7 @@ I'm Daniel Raymond. I do a wide range of things, including sensor development, f
 - [Four-Wire Fan](https://github.com/draymond63/Fan)
 - [Asm Snake on LED Matrix](https://github.com/draymond63/Snake)
 
-#### Data Science Projects
+### Data Science Projects
 - [Defining Prerequisite Trees](https://github.com/draymond63/Prerequisite-Tree)
   - The internet has so much knowledge, but it's hard to know where to start
   - I am attempting to use Wikipedia articles to tell a user what to learn before
@@ -40,7 +42,7 @@ I'm Daniel Raymond. I do a wide range of things, including sensor development, f
   - I used Wiki articles (w/ click-through rates & word2vec) to map all articles into a 2D
     space. Clustering this space allows you to understand true groupings of topics
 
-#### Full Stack Projects
+### Full Stack Projects
 - [UW Blueprint: Rowan House Course Platform](https://github.com/uwblueprint/rowan-house)
   - I am a Project Lead at my University's student [design team](https://uwblueprint.org/)
   - We are developing a course platform for an [Albert-based NPO](https://www.rowanhouse.ca/) to save them $10 000
@@ -52,5 +54,5 @@ I'm Daniel Raymond. I do a wide range of things, including sensor development, f
 - [Canadian Undergraduate Technology Conference](https://github.com/cutc-official/cutc-official.github.io)
   - Project Lead for [CUTC](https://cutc.ca/)
 
-### Current Focuses
+## Current Focuses
 I'm currently working on [segway](https://github.com/draymond63/segway) and [Prerequisite Tree](https://github.com/draymond63/Prerequisite-Tree).
