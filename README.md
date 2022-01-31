@@ -21,6 +21,7 @@ I'm Daniel Raymond. I do a wide range of things, including sensor development, f
 [FPGA Neural Network](https://github.com/draymond63/Andro)
 
 **Older Projects**
+
 [Automatic Plant Watering System](https://github.com/draymond63/smartPot)
 
 [Velocity Data Logger](https://github.com/draymond63/I2C-Velocity-Data-Logger)
