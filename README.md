@@ -56,3 +56,5 @@ I'm Daniel Raymond. I do a wide range of things, including sensor development, f
 
 ## Current Focuses
 I'm currently working on [segway](https://github.com/draymond63/segway) and [Prerequisite Tree](https://github.com/draymond63/Prerequisite-Tree).
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=draymond63)](https://github.com/anuraghazra/github-readme-stats&hide=stars,contribs&theme=merko)
